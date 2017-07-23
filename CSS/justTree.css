@@ -1,0 +1,29 @@
+.justTree
+{
+  display: inline-block;
+}
+
+.justTree li
+{
+    list-style: none;
+}
+
+/*.justTree > ul > li  ul*/
+/*{*/
+    /*display:none;*/
+/*}*/
+
+/*.justTree li:hover*/
+/*{*/
+    /*background-color: cadetblue;*/
+/*}*/
+
+.mouseHover
+{
+    background-color: cadetblue;
+}
+
+.hide
+{
+  display: none;
+}
